@@ -29,7 +29,8 @@ namespace MikkelsSkinkeKutter.SnakeCharmer
         /// <param name="order"></param>
         private void HandleOrder(Order order)
         {
-
+            // As a start take the first customer
+            ActiveOrders[0].Order
         }
 
         /// <summary>

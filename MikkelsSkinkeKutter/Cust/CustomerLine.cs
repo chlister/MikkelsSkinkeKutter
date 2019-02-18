@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MikkelsSkinkeKutter.Cust
 {
-public    class CustomerLine
+    public class CustomerLine
     {
         static List<Customer> Customers = new List<Customer>();
 
@@ -25,7 +25,7 @@ public    class CustomerLine
         {
             // Simulate new customers arriving
             Customers.Add(CustomerFatory.GenCustomer());
-        } 
+        }
 
         public void GetOrder(Order Order)
         {
