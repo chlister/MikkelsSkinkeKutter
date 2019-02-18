@@ -9,6 +9,10 @@ namespace MikkelsSkinkeKutter.SnakeCharmer
     public enum MenuItem
     {
         Hotdog,
-        HotdogRoasted
+        HotdogRoasted,
+        SausageAndBread,
+        SausageAndBreadRoasted,
+        BeefSandwich,
+        Fries
     }
 }

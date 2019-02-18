@@ -23,7 +23,7 @@ namespace MikkelsSkinkeKutter.Cust
         internal void GenOrder(int id)
         {
             // Hard coded right now
-            Order = new Order(MenuItem.Hotdog, id);
+            Order = new Order(MenuItem., id);
         }
     }
 }
