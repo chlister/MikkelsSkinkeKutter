@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace MikkelsSkinkeKutter.Feeder
 {
+    /// <summary>
+    /// Builds the MenuItem
+    /// </summary>
    public class FoodFactory
     {
-        public static 
+
     }
 }
