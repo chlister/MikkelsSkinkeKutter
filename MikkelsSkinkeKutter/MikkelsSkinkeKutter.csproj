@@ -47,6 +47,7 @@
     <Compile Include="Cust\CustomerFatory.cs" />
     <Compile Include="Cust\CustomerLine.cs" />
     <Compile Include="Feeder\CookedSausage.cs" />
+    <Compile Include="Feeder\FeedItem.cs" />
     <Compile Include="Feeder\FoodFactory.cs" />
     <Compile Include="Feeder\FoodItem.cs" />
     <Compile Include="Feeder\Fries.cs" />

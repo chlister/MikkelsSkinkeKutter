@@ -9,7 +9,12 @@ namespace MikkelsSkinkeKutter.Cust
 {
 public    class CustomerLine
     {
-        List<Customer> Customers = new List<Customer>();
+        static List<Customer> Customers = new List<Customer>();
+
+        public CustomerLine()
+        {
+            Live();
+        }
 
         private void Live()
         {
